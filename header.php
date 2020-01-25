@@ -13,10 +13,11 @@
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="#home">Home</a></li>
+						  <li class="menu-active"><a href="#home">Home</a></li>
+						  <li><a href="#about">About</a></li>
 				          <li><a href="#videos">Videos</a></li>
-				          <li><a href="#speakers">Speakers</a></li>
-				          <li><a href="#schedule">Schedule</a></li>
+				          <li><a href="#team">Team</a></li>
+				          <li><a href="#portfolio">Portfolio</a></li>
 				          <!-- <li class="menu-has-children"><a href="">Pages</a>
 				            <ul>
 				              <li><a href="generic.php">Generic</a></li>
