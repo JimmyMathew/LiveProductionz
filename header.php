@@ -17,7 +17,9 @@
 						  <li><a href="#about">About</a></li>
 				          <li><a href="#videos">Videos</a></li>
 				          <li><a href="#team">Team</a></li>
-				          <li><a href="#portfolio">Portfolio</a></li>
+						  <li><a href="#portfolio">Portfolio</a></li>
+						  <li><a href="#clients">Clients</a></li>
+						  <li><a href="gallery">Gallery</a></li>
 				          <!-- <li class="menu-has-children"><a href="">Pages</a>
 				            <ul>
 				              <li><a href="generic.php">Generic</a></li>
