@@ -60,6 +60,10 @@
 				.footer-area {
 					padding-top: 0px;
 					}
+					.contact-area{
+						padding-left: 50px;
+						background: #f9f9ff;
+					}
 			</style>
 		</head>
 		<body>
@@ -121,22 +125,62 @@
 			<!-- End brand Area -->	
 							
 				
-			<!-- Start callaction Area -->
-			<!-- <section class="callaction-area relative section-gap">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-lg-10">
-							<h1 class="text-white">Huge Transaction in last Week</h1>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-							</p>
-							<a class="callaction-btn" href="#">Become a Member</a>							
+			<!-- Start Contact Area -->
+			<section class="contact-area  section-gap">
+				<!-- <div class="overlay overlay-bg"></div> -->
+				<div class="container-fluid">
+				<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">FEEL FREE TO CONTACT US</h1>
+								<!-- <p>Who are in extremely love with eco friendly system.</p> -->
+							</div>
 						</div>
 					</div>
+				<div class="row">
+				<div class="col-lg-2 col-md-2"></div>
+				
+				<div class="col-lg-4 col-md-6">
+				<form action="https://api.formbucket.com/f/c2K3QTQ" method="post">
+					<div class="form-group">
+					<label for="name">Name</label>
+					<input class="form-control" id="name" type="text" name="Name">
+					</div>
+					<div class="form-group">
+					<label for="email">Email</label>
+					<input class="form-control" id="email" type="email" name="Email">
+					</div>
+					<div class="form-group">
+					<label for="email">Mobile</label>
+					<input type="number" class="form-control" id="mobile"  name="Mobile">
+					</div>
+					<div class="form-group">
+					<label for="message">Message</label>
+					<textarea class="form-control" id="message" name="Message"></textarea>
+					</div>
+					<input class="btn btn-success" type="submit" value="Submit" />
+					</div>
+
+					<!-- <div class="col-lg-4 col-md-4 col-sm-4">
+					<h3>Address</h>
+							<h2>Turning ideas</h2>
+							
+							<p>No: 826/78</p>
+							<p>Anna Nagar</p>
+							<p>Chennai - 600078</p>
+					</div> -->
+
+					<div class="col-lg-4 col-md-6">
+					<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=Gandhi%20Nagar%20Main%20Rd%20Palavakkam%20Tamil%20Nadu%20600041&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:403px;width:600px;}</style></div>
+					</div>
+				
+				
+				</form>
+				</div>
+				</div>
 				</div>	
-			</section> -->
-			<!-- End callaction Area -->
+			</section>
+			<!-- End Contact Area -->
 					
 
 			<!-- start footer Area -->		
